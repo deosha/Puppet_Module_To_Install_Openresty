@@ -3,6 +3,8 @@
 #Author: Deo Shankar
 #Date: 10th November, 2016
 #Version 1.0
+#OS: Ubuntu 14.04. yum is valid on redhat instead of apt and #package names as well
+#Openresty Version 1.11.2.1
 
 
 
